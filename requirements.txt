@@ -1,0 +1,4 @@
+boto3    # AWS clients such as Bedrock Runtime, Polly and Rekognition
+openai
+python-dotenv
+streamlit
