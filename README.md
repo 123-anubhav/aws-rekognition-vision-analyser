@@ -14,6 +14,14 @@ This project utilizes Amazon Rekognition to detect objects and visual labels in 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.9.0-orange.svg)](https://streamlit.io/)
 
+## PROEJCT UI
+[!Rekognition](./project%20demo%20images/rekognition01.png)
+[!Rekognition](./project%20demo%20images/rekognition02.png)
+
+## USER FLOW AT UI SIDE
+[!Rekognition](./project%20demo%20images/prject%20flow%20for%20ui%20user.png)
+
+
 ## Overview and Key Features
 ---------------------------
 
